@@ -1,5 +1,5 @@
 web_flow
 ========
 
-This is the web flow project and it is great!
+I don't even like this and it's my own project - don't use it!
 
