@@ -1,5 +1,4 @@
 web_flow
 ========
 
-I don't even like this and it's my own project - don't use it!
-
+This is cool
